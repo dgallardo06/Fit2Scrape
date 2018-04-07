@@ -1,11 +1,11 @@
 # Mongo Scraper
-##ESPN FC Edition
+## ESPN FC Edition
 
-##Overview
+## Overview
 Web app that lets users view scraped articles, leave comments and view comments on the latest news.
 
 
-##Technologies
+## Technologies
 * Mongo DB
 * Mongoose
 * Express
@@ -13,7 +13,7 @@ Web app that lets users view scraped articles, leave comments and view comments 
 * Javascript, jQuery
 
 
-###NPM Packages
+### NPM Packages
 * Express
 * express-handlebars
 * mongoose
